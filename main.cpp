@@ -7,7 +7,7 @@ int main()
     std::cout<<"donner un autre chiffre";
     std::cin>>x;
     std::cout<<a+x;
-    std::cout<< " le resultat de l'addition est : " << a+x;
+    std::cout<< " le resultat est : " << a+x;
   
     return 0;
 }
